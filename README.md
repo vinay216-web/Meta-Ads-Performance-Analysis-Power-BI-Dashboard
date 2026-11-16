@@ -155,7 +155,7 @@ This dashboard helps answer questions such as:
 https://github.com/vinay216-web/Meta-Ads-Performance-Analysis-Power-BI-Dashboard/blob/main/Meta%20Ads%20Performance%20Analysis%20%20Power%20BI%20Dashboard.png
 
 ### Engagement Analysis
-![Meta Ads Engagement Dashboard](Screenshots/engagement_dashboard.png)
+https://github.com/vinay216-web/Meta-Ads-Performance-Analysis-Power-BI-Dashboard/blob/main/Meta%20Ads%20Performance%20Analysis%20%20Power%20BI%20Dashboard2.png
 
 ## 🔍 Key Insights
 
