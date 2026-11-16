@@ -152,7 +152,7 @@ This dashboard helps answer questions such as:
 ## 📷 Dashboard Preview
 
 ### Impression Analysis
-![Meta Ads Impression Dashboard](Screenshots/impression_dashboard.png)
+https://github.com/vinay216-web/Meta-Ads-Performance-Analysis-Power-BI-Dashboard/blob/main/Meta%20Ads%20Performance%20Analysis%20%20Power%20BI%20Dashboard.png
 
 ### Engagement Analysis
 ![Meta Ads Engagement Dashboard](Screenshots/engagement_dashboard.png)
@@ -167,23 +167,6 @@ Add your actual findings from the dashboard here.
 - Identify geographical performance patterns.
 - Analyze weekly and hourly performance trends.
 
-## 📁 Project Structure
-
-```text
-meta-ads-performance-analysis/
-│
-├── Dataset/
-│   └── meta_ads_data.csv
-│
-├── PowerBI/
-│   └── meta_ads_dashboard.pbix
-│
-├── Screenshots/
-│   ├── impression_dashboard.png
-│   └── engagement_dashboard.png
-│
-└── README.md
-```
 
 ## 📝 Conclusion
 
@@ -231,24 +214,6 @@ This dashboard helps answer questions such as:
 5. Which advertising format performs better?
 6. How does advertising performance change over time?
 7. How do campaign metrics change when different filters are applied?
-
-## 📷 Dashboard Preview
-
-### Impression Analysis
-![Meta Ads Impression Dashboard]
-
-### Engagement Analysis
-![Meta Ads Engagement Dashboard](Screenshots/engagement_dashboard.png)
-
-## 🔍 Key Insights
-
-Add your actual findings from the dashboard here.
-
-- Identify the highest-performing advertising format.
-- Identify the age group with the highest engagement.
-- Compare audience engagement by gender.
-- Identify geographical performance patterns.
-- Analyze weekly and hourly performance trends.
 
 
 ## 📝 Conclusion
